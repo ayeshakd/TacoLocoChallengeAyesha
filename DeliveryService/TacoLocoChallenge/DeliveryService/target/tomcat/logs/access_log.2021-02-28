@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [28/Feb/2021:00:13:17 -0500] "GET /DeliveryService/rest/customers HTTP/1.1" 500 - http-bio-8080-exec-8 54
+0:0:0:0:0:0:0:1 - - [28/Feb/2021:00:13:24 -0500] "GET /DeliveryService HTTP/1.1" 302 - http-bio-8080-exec-9 0
+0:0:0:0:0:0:0:1 - - [28/Feb/2021:00:13:24 -0500] "GET /DeliveryService/ HTTP/1.1" 200 52 http-bio-8080-exec-9 6
+0:0:0:0:0:0:0:1 - - [28/Feb/2021:00:20:06 -0500] "GET /DeliveryService/ HTTP/1.1" 200 52 http-bio-8080-exec-1 89
+0:0:0:0:0:0:0:1 - - [28/Feb/2021:00:20:20 -0500] "GET /DeliveryService/rest/customers HTTP/1.1" 500 - http-bio-8080-exec-3 45
+0:0:0:0:0:0:0:1 - - [28/Feb/2021:00:42:56 -0500] "GET / HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [28/Feb/2021:00:43:24 -0500] "GET / HTTP/1.1" 404 - http-bio-8080-exec-6 0
+0:0:0:0:0:0:0:1 - - [28/Feb/2021:00:43:26 -0500] "GET / HTTP/1.1" 404 - http-bio-8080-exec-7 0
+0:0:0:0:0:0:0:1 - - [28/Feb/2021:00:43:35 -0500] "GET /DeliveryService/ HTTP/1.1" 200 52 http-bio-8080-exec-8 22
+0:0:0:0:0:0:0:1 - - [28/Feb/2021:00:43:48 -0500] "GET /DeliveryService/rest/customers HTTP/1.1" 500 - http-bio-8080-exec-9 33
